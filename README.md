@@ -1,0 +1,2 @@
+# DroidBinding_ViewPagerIndicator
+LuckyJayce/ViewPagerIndicator 组件的Xamarin.Android Binding
