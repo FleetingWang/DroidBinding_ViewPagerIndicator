@@ -1,0 +1,10 @@
+<metadata>
+  <!-- method params -->
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForTab' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[1]" name="managedName">position</attr>
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForTab' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[2]" name="managedName">convertView</attr>
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForTab' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[3]" name="managedName">container</attr>
+
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForPage' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[1]" name="managedName">position</attr>
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForPage' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[2]" name="managedName">convertView</attr>
+  <attr path="/api/package[@name='com.shizhefei.view.indicator']/class[@name='IndicatorViewPager.IndicatorViewPagerAdapter']/method[@name='getViewForPage' and count(parameter)=3 and parameter[1][@type='int'] and parameter[2][@type='android.view.View'] and parameter[3][@type='android.view.ViewGroup']]/parameter[3]" name="managedName">container</attr>
+</metadata>

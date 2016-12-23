@@ -1,0 +1,6 @@
+Binding for:
+com.shizhefei:ViewPagerIndicator:1.1.4
+
+Dependencies:
+
+ViewPagerIndicator-1.1.4.aar,    Path=C:\Users\wtffl\.gradle\caches\modules-2\files-2.1\com.shizhefei\ViewPagerIndicator\1.1.4\46418fa119ff672ac85d1653f2b21b4e2f4c1d5e\ViewPagerIndicator-1.1.4.aar
